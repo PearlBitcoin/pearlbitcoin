@@ -3,8 +3,8 @@ PearlBitcoin integration/staging tree
 
 http://www.pearlbitcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 PearlBitcoin Developers
+Copyright (c) 2009-2018 Bitcoin Developers
+Copyright (c) 2011-2018 PearlBitcoin Developers
 
 What is PearlBitcoin?
 ----------------
