@@ -1,4 +1,4 @@
-PearlBitcoin integration/staging tree
+PearlBitcoin Source Code
 ================================
 
 http://www.pearlbitcoin.org
@@ -11,12 +11,14 @@ What is PearlBitcoin?
 
 PearlBitcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - Block halving	210000 blocks
+ - 175000000 total coins
 
 The rest is the same as Bitcoin.
+
  - 250 coins per block
- - 2016 blocks to retarget difficulty
+ - RPC port	28928
+ - P2P port	28927
 
 For more information, as well as an immediately useable, binary version of
 the PearlBitcoin client sofware, see http://www.pearlbitcoin.org.
