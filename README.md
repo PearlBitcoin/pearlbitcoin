@@ -74,9 +74,11 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     ./pearlbitcoin-qt_test
 
 NODE List
+
 Peers - PearlBitcoin
 
 addnode=1.22.111.14:53633
+addnode=109.197.31.56:62929
 addnode=14.102.40.242:59916
 addnode=14.102.40.248:26329
 addnode=150.129.80.242:50706
