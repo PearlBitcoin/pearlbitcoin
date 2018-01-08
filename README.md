@@ -73,3 +73,28 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./pearlbitcoin-qt_test
 
+NODE List
+Peers - PearlBitcoin
+
+addnode=1.22.111.14:53633
+addnode=14.102.40.242:59916
+addnode=14.102.40.248:26329
+addnode=150.129.80.242:50706
+addnode=150.129.80.244:28927
+addnode=180.254.111.69:49167
+addnode=185.205.209.252:49406
+addnode=188.35.131.157:58993
+addnode=207.108.228.175:52476
+addnode=212.73.150.254:53388
+addnode=36.76.31.0:57084
+addnode=37.97.242.80:28927
+addnode=47.89.248.250:28927
+addnode=51.15.162.24:28927
+addnode=51.15.185.7:40130
+addnode=65.189.242.120:50294
+addnode=80.251.112.201:51183
+addnode=82.147.93.32:49917
+addnode=82.79.83.3:30012
+addnode=85.214.205.196:28927
+addnode=86.123.50.189:65290
+addnode=94.156.144.211:52724
